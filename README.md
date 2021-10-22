@@ -1,1 +1,1 @@
-hi uh i develop things in lua
+hi uh i develop things in python
